@@ -98,4 +98,5 @@ while opcao != 6:
             continue  
  
     else:
-        print("OPÇÃO")  
+        print("OPÇÃO INVÁLIDA")  
+    
